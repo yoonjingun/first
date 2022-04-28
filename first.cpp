@@ -2,6 +2,7 @@
 
 int main()
 {
-	std::cout << "first" << std::endl;
+	
+	std::cout << "one" << std::endl;
 	return 0;
 }
